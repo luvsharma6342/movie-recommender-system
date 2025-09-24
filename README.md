@@ -39,6 +39,7 @@ It suggests movies similar to a selected movie using cosine similarity.
 Since model files are large, they are not stored in GitHub.
 - movies.pkl
 - similarity.pkl
+  
 These files are stored on Google Drive and automatically downloaded at runtime using the gdown package.
 
 ## 🧠 Tech Stack
