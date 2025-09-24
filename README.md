@@ -35,11 +35,21 @@ It suggests movies similar to a selected movie using cosine similarity.
 4. Run the app:
    ```
    streamlit run app.py
-## Model Files
+## 📦 Model Files
 Since model files are large, they are not stored in GitHub.
-```
-  movies.pkl
-  similarity.pkl
-```
+- movies.pkl
+   similarity.pkl
 These files are stored on Google Drive and automatically downloaded at runtime using the gdown package.
+
+## 🧠 Tech Stack
+
+- Python
+- Streamlit (for UI)
+- Scikit-learn (for ML algorithms)
+- Pandas & Numpy (for data handling)
+- NLTK (for text preprocessing)
+
+## 👨‍💻 Author
+
+Made with ❤️ by Luv Sharma
 
